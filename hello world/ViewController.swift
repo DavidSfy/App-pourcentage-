@@ -34,3 +34,4 @@ class ViewController: UIViewController {
         restePayer.text = String(Float(tipAmountTextfield.text!)! - Float(tipLabel.text!)!)
 }
 }
+
